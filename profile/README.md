@@ -7,4 +7,4 @@
 # Open Source Contributions
 
 Feel free to work on open source via our tribe and have your Tribe collegues review and support you on your way to contributions.
-As an example there is a fork of the spring-cloud/spring-cloud-kubernetes repository forked.
+As an example the spring-cloud/spring-cloud-kubernetes repository is forked here.
